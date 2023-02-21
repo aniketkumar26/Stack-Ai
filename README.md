@@ -1,4 +1,4 @@
-# Stack-Ai Developed By Aniket Kumar 
+# Stack-Ai Developed By Aniket Kumar
 With Stack-Ai  art generator from text, you can create an image from a text description. Describe what you want, and watch the AI text to image generator online bring it to life in seconds. What's more, use the image you prefer to create a new picture with Stack-Ai image generator free. Our AI empowers anyone to create attractive AI paintings, illustrations, and various kinds of images.
 WEB VERSION 
 ![Untitled](https://user-images.githubusercontent.com/76788555/219976030-1ab06683-ac72-4a89-bcb6-faf40bc290f2.jpg)
@@ -60,4 +60,6 @@ Right now, your changes only exist locally. When you're ready to push your chang
 
 git push
 
-THANKS PROJECT IS DEVELOPED BY ANIKET KUMAR 
+I am working further in this project for future use 
+
+THANKS PROJECT IS DEVELOPED BY ANIKET KUMAR
