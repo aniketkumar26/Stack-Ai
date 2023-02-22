@@ -37,7 +37,7 @@ To clone a repository using GitHub CLI, click GitHub CLI, then click .
 Above the list of files, click  Code.
 Open Git Bash.
 
-Change the current working directory to the location where you want the cloned directory.
+Change the current working directory to the location where you want the cloned directory
 
 Type git clone, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of YOUR-USERNAME:
 
